@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Rishilpi Ed</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="welcome">Hey!!!\n What can we find you today?</string>
+    <string name="sample_media_url_mp3">https://storage.googleapis.com/exoplayer-test-media-0/play.mp3</string>
+    <string name="sample_media_url_local_mp4">file:///storage/emulated/0/Android/data/com.nkr.rishilpi_ed/files/Movies/rishilpi_video/demo_video.mp4</string>
+</resources>
